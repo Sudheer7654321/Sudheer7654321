@@ -20,7 +20,7 @@
 
 ### 💻 Tech Stack
 
-- **Languages:** Dart, Java, JavaScript, C
+- **Languages:** Dart, Java, C++, C#, Python, JavaScript, 
 - **Frontend:** Flutter, HTML/CSS (basic)
 - **Backend:** Firebase, Node.js (exploring), Java Spring Boot (learning)
 - **APIs:** REST, Web3 (WalletConnect, Covalent)
@@ -32,8 +32,6 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sudheer7654321&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudheer7654321&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
