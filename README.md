@@ -1,60 +1,45 @@
-# 👋 Hi, I'm Sudheer Kondamuri
+<h1 align="center">Hey 👋, I'm Sudheer Kondamuri</h1>
 
-🚀 Passionate about building **cross-platform apps**, securing systems, and exploring full-stack ecosystems.
-
----
-
-## 🧑‍💻 About Me
-
-- 🛠️ Currently building **Kube**, a unified finance tracker powered by Flutter + WalletConnect v2 + Covalent API
-- 🧩 Exploring **Cybersecurity** via TryHackMe & CTF challenges
-- ☕ Backend enthusiast with growing expertise in **Java Spring Boot**
-- 💬 Always learning — currently focused on **Flutter performance optimization** and **Web3 integrations**
+<p align="center">
+  🚀 Flutter Developer • 🔐 Cybersecurity Enthusiast • ☕ Java Backend Learner  
+  <br>
+  Passionate about building smart apps and exploring tech beyond the frontend.
+</p>
 
 ---
 
-## 🔧 Technologies & Tools
+### 👨‍💻 About Me
 
-### Mobile & Frontend
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-### Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### Web3 & Security
-![WalletConnect](https://img.shields.io/badge/WalletConnect-3B99FC?style=for-the-badge&logo=walletconnect&logoColor=white)
-![Covalent](https://img.shields.io/badge/Covalent_API-blue?style=for-the-badge)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-212121?style=for-the-badge&logo=tryhackme&logoColor=red)
+- 🧠 Always learning: currently exploring **Flutter**, **Cybersecurity**, and **Java Spring Boot**
+- 📱 Love crafting **responsive UIs** and integrating **real-time APIs**
+- 🔐 Practicing on **TryHackMe**, focusing on networking and ethical hacking fundamentals
+- 🔗 Diving into **Web3 fundamentals**, experimenting with WalletConnect v2 and crypto tools
+- 🌍 Interested in building **secure, full-stack, cross-platform apps**
 
 ---
 
-## 📦 Featured Project
+### 💻 Tech Stack
 
-### 🔐 Kube — Crypto Wallet & Portfolio Tracker
-> A modern Flutter app that connects to wallets via WalletConnect v2, fetches real-time balances from Covalent, and shows trending crypto data with CoinGecko.
-
-- 🌐 Integrated deep linking with MetaMask mobile via `url_launcher`
-- 📊 Real-time INR valuation and token worth summary
-- 💱 Supports QR code connection and session handling
-- 🧪 Optimized for mobile with ZoomDrawer, dark theme, and performance tweaks
-
----
-
-## 📈 GitHub Stats
-
-![Sudheer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SudheerKondamuri&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SudheerKondamuri&layout=compact&theme=tokyonight)
+- **Languages:** Dart, Java, JavaScript, C
+- **Frontend:** Flutter, HTML/CSS (basic)
+- **Backend:** Firebase, Node.js (exploring), Java Spring Boot (learning)
+- **APIs:** REST, Web3 (WalletConnect, Covalent)
+- **Tools:** Git, VS Code, Android Studio, Postman
+- **Security Tools:** TryHackMe Labs, Burp Suite (beginner), Wireshark
 
 ---
 
-## 🤝 Let's Connect
+### 📈 GitHub Stats
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/sudheerkondamuri)
-- 💬 DM me for Flutter collabs, wallet integrations, or security projects
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sudheer7654321&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudheer7654321&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 
-_“Code. Break. Secure. Repeat.”_
+### 🌐 Connect with Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/kondamuri-satya-sudheer-1966222a4/)
+
